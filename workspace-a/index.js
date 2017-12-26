@@ -1,0 +1,3 @@
+exports.workspaceA = {
+  hi: 'hello'
+};

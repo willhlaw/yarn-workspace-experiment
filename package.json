@@ -1,0 +1,16 @@
+{
+  "private": true,
+      "workspaces": [
+        "workspace-a",
+        "workspace-b"
+    ],
+  "name": "yarn-workspace-experiment",
+  "version": "1.0.0",
+  "description": "Test yarn workspace",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
