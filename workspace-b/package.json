@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.0",
-        "workspace-a": "1.0.0"
+    "react-native": "^0.51.0",
+    "workspace-a": "1.0.0"
   }
 }
